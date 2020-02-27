@@ -1,0 +1,46 @@
+.center_image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+  }
+
+  .center_text {
+      text-align: center;
+  }
+
+  h1 {
+    margin: 0;
+    background-color: #002E82;
+    color: white;
+    padding: 20px
+  }
+
+  h2 {
+      border-bottom: 5px solid black;
+  }
+
+  body {
+    font-family: "Times New Roman", Times, serif;
+    background-color: #A6A6A6;
+    padding:0;
+    margin: 0px
+  }
+
+  a {
+      text-decoration: none;
+  }
+
+  footer {
+    margin: 0;
+    padding: 20px;
+    text-align: center;
+    border: 2px solid black;
+  }
+
+  .image_background {
+    background: linear-gradient(rgba(255,255,255,.3), rgba(255,255,255,.6)), url("Innovation-future-technology.jpg");
+  }
