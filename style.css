@@ -42,5 +42,29 @@
   }
 
   .image_background {
-    background: linear-gradient(rgba(255,255,255,.3), rgba(255,255,255,.6)), url("Innovation-future-technology.jpg");
+    background: linear-gradient(rgba(255,255,255,.1), rgba(255,255,255,.6)), url("Innovation-future-technology.jpg");
   }
+
+
+.main-container {
+    overflow: auto;
+}
+
+@media (min-width : 600px) and (max-width:990px) {
+    .left-side, .right-side {
+        box-sizing: border-box;
+        width: 50%;
+        float:left;
+    }
+}
+
+@media (min-width:991px) {
+    .left-side {
+        width: 60%;
+        float:left;
+    }
+    .right-side {
+        float: left;
+        width: 40%;
+    }
+}
