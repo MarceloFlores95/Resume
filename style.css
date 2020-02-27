@@ -24,7 +24,7 @@
   }
 
   body {
-    font-family: "Times New Roman", Times, serif;
+    font-family: Arial, Helvetica, sans-serif;
     background-color: #A6A6A6;
     padding:0;
     margin: 0px
@@ -42,7 +42,7 @@
   }
 
   .image_background {
-    background: linear-gradient(rgba(255,255,255,.1), rgba(255,255,255,.6)), url("Innovation-future-technology.jpg");
+    background: linear-gradient(rgba(255,255,255,.1), rgba(255,255,255,.6)), url("./images/Innovation-future-technology.jpg");
   }
 
 
