@@ -68,3 +68,8 @@
         width: 40%;
     }
 }
+
+.hover_activities:hover  {
+  background-color: #DEDEDE;
+  border-radius: 2% 2% 2% 2%;
+}
